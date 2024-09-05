@@ -1,4 +1,4 @@
-# Hello!
+# Hello, my name is Chantal Martinez!
 Welcome to my GitHub repository! 
 
 # Outline
