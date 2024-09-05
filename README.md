@@ -9,23 +9,16 @@ Welcome to my GitHub repository!
 # Week 1: Report 1 #
 ## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This week it was a mix of going back to basics and learning things. After a year or so of not being in a studio, using CAD, or physically prototypiong, it feels good to be back. After refreshing my knowledge on Rhino, laser cutting, and 3D printing, I decided to test out the laser cutter for this first week. 
+
+I went the simple route creating coasters for my new apartment and they turned out pretty good! I worked in Rhino and then moved onto Illustartor, where I faced some issues with having a newer version of the program. With some guidance from Cody Glen, I was able to succesfully cut my coasters. See pictures of my design below!
+
+
+
+After cutting the coasters I felt happy to be back in a workshop, yet felt the necessity to seal them/clear coat them to make these functional... here are some pictures of the process...
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
 ---
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
-
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
+Moving forward, I see myself working on very interesting projects and getting familiar with both old and new machines/tools. All the tools we are being offered and pushed to use seem to be very useful and 
