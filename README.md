@@ -13,8 +13,8 @@ This week it was a mix of going back to basics and learning things. After a year
 
 I went the simple route creating coasters for my new apartment and they turned out pretty good! I worked in Rhino and then moved onto Illustartor, where I faced some issues with having a newer version of the program. With some guidance from Cody Glen, I was able to succesfully cut my coasters. See pictures of my design below!
 
-<img width="200" alt="Rhino" src="assets/Rhino Screenshot.png">
-<img width="200" alt="Illustrator" src="assets/Illustrator Screenshot.png">
+<img width="500" alt="Rhino" src="assets/Rhino Screenshot.png">
+<img width="500" alt="Illustrator" src="assets/Illustrator Screenshot.png">
 
 After cutting the coasters I felt happy to be back in a workshop, yet felt the necessity to seal them/clear coat them to make these functional... here are some pictures of the process...
 
