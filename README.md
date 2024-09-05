@@ -6,7 +6,7 @@ Welcome to my GitHub repository!
 
 ---
 
-# Week 1: Example Report 1 #
+# Week 1: Report 1 #
 ## Week of 09/05/2024
 
 This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
