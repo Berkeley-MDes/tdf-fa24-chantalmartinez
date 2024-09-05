@@ -8,6 +8,10 @@ week 2, etc...
 # Outline
 [week 2](README.md#week-2-example-report-1)
 
+week 3, etc...
+# Outline
+[week 3](README.md#week-3-example-report-1)
+
 ---
 
 # Github Background Information & Context
