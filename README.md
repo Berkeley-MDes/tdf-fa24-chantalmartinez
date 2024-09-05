@@ -17,7 +17,7 @@ I went the simple route creating coasters for my new apartment and they turned o
 
 After cutting the coasters I felt happy to be back in a workshop, yet felt the necessity to seal them/clear coat them to make these functional... here are some pictures of the process...
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/Cutting.HEIC">
 
 Moving forward, I see myself working on very interesting projects and getting familiar with both old and new machines/tools. All the tools we are being offered and pushed to use seem to be very useful and purposeful for our future as designers. 
 
