@@ -23,4 +23,4 @@ Moving forward, I see myself working on very interesting projects and getting fa
 
 Additionally, I am very interested in the healthcare industry. Medical tech, wearables, everything related to it... I recently read on the news about this doctor in China who performed surgery on a patient from kilometers away. I really finds this fascinating, find the link below:
 
-__https://www.hindustantimes.com/trending/doctor-removes-patient-s-lung-tumor-while-operating-machine-from-5-000-km-away-video-surfaces-101722674450882.html__
+_https://www.hindustantimes.com/trending/doctor-removes-patient-s-lung-tumor-while-operating-machine-from-5-000-km-away-video-surfaces-101722674450882.html_
