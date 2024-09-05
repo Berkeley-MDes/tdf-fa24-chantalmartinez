@@ -1,16 +1,12 @@
+week 2
+# Outline
+[week 2](README.md#week-2-example-report-1)
+
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
 # Outline
 [week 1](README.md#week-1-example-report-1)
-
-week 2, etc...
-# Outline
-[week 2](README.md#week-2-example-report-1)
-
-week 3, etc...
-# Outline
-[week 3](README.md#week-3-example-report-1)
 
 ---
 
