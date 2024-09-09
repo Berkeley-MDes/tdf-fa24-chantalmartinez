@@ -19,7 +19,7 @@ The homework assignment for 09/09/2024 was kind of confusing at first, but after
 
 Here is a visual/diagram of what I understood from the example files of the phone stand:
 
-<img width="500" alt="Diagram" src="assets/202 Grasshopper Diagram.png">
+<img width="1000" alt="Diagram" src="assets/202 Grasshopper Diagram.png">
 
 ---
 
