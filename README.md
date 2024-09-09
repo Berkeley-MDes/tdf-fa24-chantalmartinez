@@ -4,6 +4,13 @@ Welcome to my GitHub repository!
 # Outline
 [week 1](README.md#week-1-example-report-1)
 
+[week 2](README.md#week-2-example-report-2)
+
+---
+
+# Week 2: Report 1 #
+## Week of 09/12/2024
+
 ---
 
 # Week 1: Report 1 #
