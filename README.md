@@ -11,6 +11,16 @@ Welcome to my GitHub repository!
 # Week 2: Report 1 #
 ## Week of 09/12/2024
 
+The homework assignment for 09/09/2024 was kind of confusing at first, but after a series of Grasshopper tutorials online and playing around with Grasshopper... I was able to understand the basics of the flow of how the program works. I feel like it was helpful to mess around with the example files and see what changed in the model once altering the different parameters. It gave me an error once I edited the phone parameters to the actual dimensions of my phone. The center of gravity was off, the stsand was not doing its function. Below are some picturs of my progress:
+
+<img width="500" alt="Edits" src="assets/Edits.png">
+<img width="500" alt="Position" src="assets/Position.png">
+<img width="500" alt="Error" src="assets/Error.png">
+
+Here is a visual/diagram of what I understood from the example files of the phone stand:
+
+<img width="500" alt="Diagram" src="assets/202 Grasshopper Diagram.png">
+
 ---
 
 # Week 1: Report 1 #
