@@ -21,6 +21,10 @@ Here is a visual/diagram of what I understood from the example files of the phon
 
 <img width="1000" alt="Diagram" src="assets/Grasshopper Diagram.png">
 
+And here is another visual of my thinking process while trying to create something: 
+
+<img width="1000" alt="Sketch" src="assets/Sketch.png">
+
 In class on Monday we had a Grasshopper demo that was more "clear" (still a work in progress to understand how it works) than many tutorials. I have still been watching tutorials that show some "tips and tricks" to helpe first time user get familiar with the commands and all you can do in the program. While it is still hard to grasp all the commands, paraments, etc. I am confident that I will learn how to do basic models soon. Here is a picture of the progress I made with the "live tutorial" that TJ led the other day...
 
 <img width="500" alt="GH_Example" src="assets/GH_Example.png">
