@@ -33,8 +33,6 @@ I feel that I need more practice to figure out what is the gemometry (not sure t
 
 Examples: 
 
-![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
-
 <img width="250" height="400" alt="Circle" src="assets/Circle.png">
 <img width="250" height="400" alt="Vector" src="assets/Vector.png">
 
