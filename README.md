@@ -23,7 +23,7 @@ Here is a visual/diagram of what I understood from the example files of the phon
 
 In class on Monday we had a Grasshopper demo that was more "clear" (still a work in progress to understand how it works) than many tutorials. I have still been watching tutorials that show some "tips and tricks" to helpe first time user get familiar with the commands and all you can do in the program. While it is still hard to grasp all the commands, paraments, etc. I am confident that I will learn how to do basic models soon. Here is a picture of the progress I made with the "live tutorial" that TJ led the other day...
 
-<img width="1000" alt="GH_Example" src="assets/GH_Example.png">
+<img width="500" alt="GH_Example" src="assets/GH_Example.png">
 
 I feel that I need more practice to figure out what is the gemometry (not sure this is the correct term) that is available in Grasshopper. I have had a difficult time differentiating between types of commands. For example, I want to do a a circle, but there are so many options... how do I know which one is the one I want? I feel that it will be a trial and error learning experience and then it will be total muscle memory. Fingers crossed! Very excited to develop this knowledge and skil in this new program. 
 
