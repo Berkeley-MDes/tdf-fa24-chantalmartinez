@@ -29,8 +29,8 @@ I feel that I need more practice to figure out what is the gemometry (not sure t
 
 Examples: 
 
-<img width="500" alt="Circle" src="assets/Circle.png">
-<img width="500" alt="Vector" src="assets/Vector.png">
+<img width="250" height="400" alt="Circle" src="assets/Circle.png">
+<img width="250" height="400" alt="Vector" src="assets/Vector.png">
 
 ---
 
