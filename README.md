@@ -6,6 +6,24 @@ Welcome to my GitHub repository!
 
 [week 2](README.md#week-2-example-report-2)
 
+[week 3](README.md#week-3-example-report-3)
+
+---
+
+# Week 3: Report 1 #
+## Week of 09/19/2024
+
+This week was very hectic, trying to understand everything from the project, figuring out what to design, actually using Grasshopper to create somehting I really wanted an already designed, and more! Here are a couple of pictures of the process of Project 01, along with the video I created for this!
+
+<img width="1000" alt="Diagram" src="assets/Rhino_Diagram.png">
+<img width="1000" alt="Diagram" src="assets/GH_Candle02_Diagram.png">
+<img width="1000" alt="Diagram" src="assets/GH_Candle02_Diagram">
+
+Link: 
+
+While I think this was a very fast paces project, I am still open to learning more about Grasshopper and excited to use it in a more complex manner, it will take me some time to grasp how these graphs and flow work. As a designer, it can be challenging not to manipulate my design directly like I can in Rhino or SolidWorks. I am happy to have discovered that leveraging Grasshopper allowed me to iterate and refine my ideas more effectively, improving my overall design process.
+
+
 ---
 
 # Week 2: Report 1 #
