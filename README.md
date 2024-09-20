@@ -30,8 +30,8 @@ Here are some pictures of the different files created prior to defining the rout
 <img width="500" alt="Folders" src="assets/Folders.png">
 <img width="500" alt="Iterations" src="assets/Iterations.png">
 <img width="500" alt="STLs" src="assets/STLs.png">
-<img width="500" alt="Prints" src="Prints.png">
-<img width="500" alt="Final" src="Final.png">
+<img width="500" alt="Prints" src="assets/Prints.png">
+<img width="500" alt="Final" src="assets/SmallFinal.png">
 
 ---
 
