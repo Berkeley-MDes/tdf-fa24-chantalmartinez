@@ -21,7 +21,12 @@ This week was very hectic, trying to understand everything from the project, fig
 
 Link: https://youtu.be/Aso4vXevdKo 
 
-While I think this was a very fast paces project, I am still open to learning more about Grasshopper and excited to use it in a more complex manner, it will take me some time to grasp how these graphs and flow work. As a designer, it can be challenging not to manipulate my design directly like I can in Rhino or SolidWorks. I am happy to have discovered that leveraging Grasshopper allowed me to iterate and refine my ideas more effectively, improving my overall design process.
+While I think this was a very fast paced project, I am still open to learning more about Grasshopper and excited to use it in a more complex manner, it will take me some time to grasp how these graphs and flow work. As a designer, it can be challenging not to manipulate my design directly like I can in Rhino or SolidWorks. I am happy to have discovered that leveraging Grasshopper allowed me to iterate and refine my ideas more effectively, improving my overall design process.
+
+After doing my project and video, I wish I had showed more information of all the iterations it took for me to finally land on a design. It definelty was a longer process than what is shown on my video and would really like to get some tips on how to condense this information and be able to still showcase all that I want without leaving important things out. I would like to learn how to explain my diagrams easier on video while still stayingon the 3 min constraint. 
+
+Here are some pictures of the different files created prior to defining the route I was gong to go with and while finding out what works for printing. When working on Grasshopper I found out it was way easier to iterate and doing all this process I did in Rhino while defining what was feasible to print, hold the candle, etc. 
+
 
 
 ---
