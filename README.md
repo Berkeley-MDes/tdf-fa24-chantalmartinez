@@ -28,7 +28,7 @@ After doing my project and video, I wish I had showed more information of all th
 Here are some pictures of the different files created prior to defining the route I was gong to go with and while finding out what works for printing. When working on Grasshopper I found out it was way easier to iterate and doing all this process I did in Rhino while defining what was feasible to print, hold the candle, etc. 
 
 <img width="500" alt="Folders" src="assets/Folders.png">
-<img width="500" alt="Iterations" src="assets/Iterations.png">
+<img width="500" alt="Iterations" src="assets/IterationsFile.png">
 <img width="500" alt="STLs" src="assets/STLs.png">
 <img width="500" alt="Prints" src="assets/Prints.png">
 <img width="500" alt="Final" src="assets/SmallFinal.png">
