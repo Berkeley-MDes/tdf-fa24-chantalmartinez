@@ -21,6 +21,12 @@ Welcome to my GitHub repository!
 
 This week I found a very cool tool like Adam, it is called Zoo: https://text-to-cad.zoo.dev
 
+<img width="1000" alt="Ecosystems" src="assets/Ecosystems.jpg">
+
+This diagram represents my daily interactions within my health and fitness and personal device ecosystems. At the center is my smartphone, which serves as the primary hub for collecting and sharing data. Wearable devices sync data such as steps and heart rate to mobile apps, allowing for easy tracking of fitness goals. I log my nutrition data within these apps, which can also share this information with my nutritionist for tailored advice.
+
+Social media platforms are integrated into my routine, where I share my progress and receive encouragement from online communities. Feedback loops are evident, as the data collected influences my future fitness and dietary decisions, while support from peers motivates me to stay consistent. Overall, this ecosystem highlights the interconnectedness of technology and personal health management.
+
 ---
 
 # Week 3: Report 1 #
