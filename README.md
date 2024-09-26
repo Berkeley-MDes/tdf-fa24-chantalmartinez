@@ -19,7 +19,7 @@ Hello again! This week was very interesting since it was the first assignment I 
 
 After watching all the videos and overall oroject of my classmates, I definitely learned that there I things that I can work on to have more successful projects. Now that this first project is done I am excited, but nervous of what is to come.
 
-Additionally, I am very proud of my process of diagramming my first project in Figma, which really helped me understand hwo things in Grasshopper work vs. Rhino. HEre is a snapshot of my process:
+Additionally, I am very proud of my process of diagramming my first project in Figma, which really helped me understand hwo things in Grasshopper work vs. Rhino. Here is a snapshot of my process:
 
 <img width="1000" alt="TechDesign" src="assets/TechDesign.png">
 
