@@ -17,7 +17,7 @@ Welcome to my GitHub repository!
 
 
 
-<img width="1000" alt="TechDesign" src="assets/TechDesign.jpg">
+<img width="1000" alt="TechDesign" src="assets/TechDesign.png">
 
 This week I found a very cool tool like Adam, it is called Zoo: https://text-to-cad.zoo.dev
 
