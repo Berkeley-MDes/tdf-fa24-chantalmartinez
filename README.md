@@ -8,12 +8,25 @@ Welcome to my GitHub repository!
 
 [week 3](README.md#week-3-example-report-3)
 
+[week 4](README.md#week4-example-report-4)
+
+---
+
+# Week 4: Report 1 #
+## Week of 09/26/2024
+
+
+
+<img width="1000" alt="TechDesign" src="assets/TechDesign.jpg">
+
+This week I found a very cool tool like Adam, it is called Zoo: https://text-to-cad.zoo.dev
+
 ---
 
 # Week 3: Report 1 #
 ## Week of 09/19/2024
 
-This week was very hectic, trying to understand everything from the project, figuring out what to design, actually using Grasshopper to create somehting I really wanted an already designed, and more! Here are a couple of pictures of the process of Project 01, along with the video I created for this!
+This week was very hectic, trying to understand everything from the project, figuring out what to design, actually using Grasshopper to create somehting I really wanted an already designed, and more! Here are a couple of pictures of the process of Project 01, along with the video I created for this:
 
 <img width="1000" alt="Diagram" src="assets/Rhino_Diagram.jpg">
 <img width="1000" alt="Diagram" src="assets/GH_Candle02_Diagram.jpg">
@@ -32,6 +45,15 @@ Here are some pictures of the different files created prior to defining the rout
 <img width="500" alt="STLs" src="assets/STLs.png">
 <img width="500" alt="Prints" src="assets/Prints.png">
 <img width="500" alt="Final" src="assets/SmallFinal.png">
+
+I also feel very satisfied to have had the opportunity to help someo of my classmates with Rhino. It felt very nice to be able to give tips and tricks of the programs while others also shared tips and tricks for Grasshopper. 
+
+in complete sentences or paragraphs, and perhaps images or videos.
+speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
+speculation on future direction for the work
+bonus: thoughtful descriptions of something interesting and relevant you heard about in the news or industry publications. include text, an image, a link, and a reference that you can follow up on later and share with your peers.
+
+I would say that Rhino and Grasshopper will be affected by AI and upgrades in a very positive way. AI technology is advancing and it is very likely that programs like Rhino and Grasshopper will incorporate AI-driven tools that support optimizatio and automated workflows, letting designers/engineers to create complex and innovative solutions in a very efficient manner. Another thing that would be great to be incorporated int he near future would be cloud collaboration. Cloud-based platforms enable real-time collaboration anmong people and introducing it to these porgrams will facilitate teamwork across remote groups that need to work on projects simultaneously. This has pros and cons, since it can enhance productivity, creativity, and offer real-time feedback; yet it can also cause disputes within the same group. Still, it woudl be a very good addition to the programs. 
 
 ---
 
@@ -62,6 +84,8 @@ Examples:
 
 <img width="250" height="400" alt="Circle" src="assets/Circle.png">
 <img width="250" height="400" alt="Vector" src="assets/Vector.png">
+
+Grasshopper seems very intimidating, but I do think this is a tool that can be used in different field in the future. It might be hard for deisgners ot go into Grasshopper after wprking with other programs before, but if someone that is very organized and visualizes a design or solution in a "graph" it will be a very helpful tool for them. Computational design tools are definetly growing and will help deisgners, engineers, etc. in the iteration and manufacturing processes of solutions.  
 
 ---
 
