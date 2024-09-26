@@ -15,11 +15,11 @@ Welcome to my GitHub repository!
 # Week 4: Report 1 #
 ## Week of 09/26/2024
 
-
+Hello! This week 
 
 <img width="1000" alt="TechDesign" src="assets/TechDesign.png">
 
-Here is my hoemwork for this week along with the description of how and why I think that these two ecocystems in my life are connected to each other:
+Here is my homework for this week along with the description of how and why I think that these two ecocystems in my life are connected to each other:
 
 <img width="1000" alt="Ecosystems" src="assets/Ecosystems.jpg">
 
@@ -59,7 +59,7 @@ speculation on future direction for the tools [so much is changing very quickly 
 speculation on future direction for the work
 bonus: thoughtful descriptions of something interesting and relevant you heard about in the news or industry publications. include text, an image, a link, and a reference that you can follow up on later and share with your peers.
 
-I would say that Rhino and Grasshopper will be affected by AI and upgrades in a very positive way. AI technology is advancing and it is very likely that programs like Rhino and Grasshopper will incorporate AI-driven tools that support optimizatio and automated workflows, letting designers/engineers to create complex and innovative solutions in a very efficient manner. Another thing that would be great to be incorporated int he near future would be cloud collaboration. Cloud-based platforms enable real-time collaboration anmong people and introducing it to these porgrams will facilitate teamwork across remote groups that need to work on projects simultaneously. This has pros and cons, since it can enhance productivity, creativity, and offer real-time feedback; yet it can also cause disputes within the same group. Still, it woudl be a very good addition to the programs. 
+I would say that Rhino and Grasshopper will be affected by AI and upgrades in a very positive way. AI technology is advancing and it is very likely that programs like Rhino and Grasshopper will incorporate AI-driven tools that support optimizatio and automated workflows, letting designers/engineers to create complex and innovative solutions in a very efficient manner. Another thing that would be great to be incorporated int he near future would be cloud collaboration. Cloud-based platforms enable real-time collaboration anmong people and introducing it to these porgrams will facilitate teamwork across remote groups that need to work on projects simultaneously. This has pros and cons, since it can enhance productivity, creativity, and offer real-time feedback; yet it can also cause disputes within the same group. Still, it would be a very good addition to the programs. 
 
 ---
 
