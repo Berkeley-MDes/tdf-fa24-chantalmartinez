@@ -25,13 +25,15 @@ Additionally, I am very proud of my process of diagramming my first project in F
 
 In class on Monday, I can say that I was little scared and lost. I have never heard or Arduino so I took a workshop a month or so ago so that I wouldn't feel lost in this second project, but I honestly didn't learn much. It was fast paced and basic, but still did not understand how it works. Now being introducd to our second project, I am thankful that it is in groups so I can get my peers to guide me through this learning process. I honestly didn't know the majrority of the terms in the lecture, so we will see how it goes. 
 
-Here is my homework for this week along with the description of how and why I think that these two ecocystems in my life are connected to each other:
+Here is my homework for this week along with the description of how and why I think that these two ecosystems in my life are connected to each other:
 
 <img width="1000" alt="Ecosystems" src="assets/Ecosystems.jpg">
 
-Speculation
+Speculation of microcontrollers? Not sure, but hopefully the following things will happen:
+ - Easier Development Tool: For these tools to have a more user-friendly software could be VERY good for people that do not have a backrgound to know about them. Tools for programming  microcontrollers will become _more intuitive_, with options that _don’t require deep coding skills_, making it easier for anyone to create projects. 
+- Advanced Sensors: Microcontrollers might work with cooler sensors that will be developed to make devices smarter for health monitoring among others. _I have a great interest in wearable technology, medical devices, and just overall lifestyle snd wellbeing products and services._
 
-This week I found a very cool tool like Adam, it is called Zoo: https://text-to-cad.zoo.dev
+Check out this cool startup I have been following an dbeen interested in for s while: https://www.nextiles.com
 
 ---
 
