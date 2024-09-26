@@ -15,9 +15,15 @@ Welcome to my GitHub repository!
 # Week 4: Report 1 #
 ## Week of 09/26/2024
 
-Hello! This week 
+Hello again! This week was very interesting since it was the first assignment I was submitting for the class. I was very nervous of how I showcased my design aesthetics and design thinking process through such a short video and word-heavy report. I feel that I am a good presenter that can pitch a product very well. But I am so harsh on myself that I always know or feel that there is something I coudl have done better. That is how I felt with my video, since I could not go back and add things like one would naturally do in a presentation which is much more flexible, but still "scripted". 
+
+After watching all the videos and overall oroject of my classmates, I definitely learned that there I things that I can work on to have more successful projects. Now that this first project is done I am excited, but nervous of what is to come.
+
+Additionally, I am very proud of my process of diagramming my first project in Figma, which really helped me understand hwo things in Grasshopper work vs. Rhino. HEre is a snapshot of my process:
 
 <img width="1000" alt="TechDesign" src="assets/TechDesign.png">
+
+In class on Monday, I can say that I was little scared and lost. I have never heard or Arduino so I took a workshop a month or so ago so that I wouldn't feel lost in this second project, but I honestly didn't learn much. It was fast paced and basic, but still did not understand how it works. Now being introducd to our second project, I am thankful that it is in groups so I can get my peers to guide me through this learning process. I honestly didn't know the majrority of the terms in the lecture, so we will see how it goes. 
 
 Here is my homework for this week along with the description of how and why I think that these two ecocystems in my life are connected to each other:
 
