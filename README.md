@@ -18,11 +18,26 @@ Welcome to my GitHub repository!
 ## Week of 10/03/2024
 
 **Reflection**
-This week I had very limited time to work with the Photon as I had a family emergency and just got back to school. I did follow the tutorials, which personally are very hard to fully understand just because I am not familiar with coding, nor microcontrollers in general. 
+This week I had very limited time to work with the Photon as I had a family emergency and just got back to school. I did follow the tutorials, which personally are very hard to fully understand just because I am not familiar with coding, nor microcontrollers in general. I was able to follow examples in last week's class and was successful; the process of the code looked like this: 
+
+<img width="500" alt="Example" src="assets/Example.jpg">
+<img width="500" alt="Example1" src="assets/Example1.jpg">
+
+I went on and worked trhought the tutorials and these are the ones I did:
+
+_**Button -> LED Pulse Rate**_
+
+<img width="500" alt="ButtonLEDPulse" src="assets/ButtonLEDPulse.jpg">
+
+_**FSR -> LED Color**_
+
+<img width="500" alt="FSR" src="assets/FSR.jpg">
+
+_**Button Send on Change**_
+
+<img width="500" alt="ButtonSend" src="assets/ButtonSend.jpg">
 
 **Speculations**
-Images & Video
-Sketches, Drawings, & Diagrams
 
 ---
 
