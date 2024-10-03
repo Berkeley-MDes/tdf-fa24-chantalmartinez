@@ -17,8 +17,10 @@ Welcome to my GitHub repository!
 # Week 5: Report 1 #
 ## Week of 10/03/2024
 
-Reflection
-Speculations
+**Reflection**
+This week I had very limited time to work with the Photon as I had a family emergency and just got back to school. I did follow the tutorials, which personally are very hard to fully understand just because I am not familiar with coding, nor microcontrollers in general. 
+
+**Speculations**
 Images & Video
 Sketches, Drawings, & Diagrams
 
@@ -27,6 +29,7 @@ Sketches, Drawings, & Diagrams
 # Week 4: Report 1 #
 ## Week of 09/26/2024
 
+**Reflection**
 Hello again! This week was very interesting since it was the first assignment I was submitting for the class. I was very nervous of how I showcased my design aesthetics and design thinking process through such a short video and word-heavy report. I feel that I am a good presenter that can pitch a product very well. But I am so harsh on myself that I always know or feel that there is something I coudl have done better. That is how I felt with my video, since I could not go back and add things like one would naturally do in a presentation which is much more flexible, but still "scripted". 
 
 After watching all the videos and overall oroject of my classmates, I definitely learned that there I things that I can work on to have more successful projects. Now that this first project is done I am excited, but nervous of what is to come.
@@ -41,6 +44,7 @@ Here is my homework for this week along with the description of how and why I th
 
 <img width="1000" alt="Ecosystems" src="assets/Ecosystems.jpg">
 
+**Speculations**
 Speculation of microcontrollers? Not sure, but hopefully the following things will happen:
  - Easier Development Tool: For these tools to have a more user-friendly software could be VERY good for people that do not have a backrgound to know about them. Tools for programming  microcontrollers will become _more intuitive_, with options that _don’t require deep coding skills_, making it easier for anyone to create projects. 
 - Advanced Sensors: Microcontrollers might work with cooler sensors that will be developed to make devices smarter for health monitoring among others. _I have a great interest in wearable technology, medical devices, and just overall lifestyle snd wellbeing products and services._
@@ -52,6 +56,7 @@ Check out this cool startup I have been following an dbeen interested in for s w
 # Week 3: Report 1 #
 ## Week of 09/19/2024
 
+**Reflection**
 This week was very hectic, trying to understand everything from the project, figuring out what to design, actually using Grasshopper to create somehting I really wanted an already designed, and more! Here are a couple of pictures of the process of Project 01, along with the video I created for this:
 
 <img width="1000" alt="Diagram" src="assets/Rhino_Diagram.jpg">
@@ -74,11 +79,7 @@ Here are some pictures of the different files created prior to defining the rout
 
 I also feel very satisfied to have had the opportunity to help someo of my classmates with Rhino. It felt very nice to be able to give tips and tricks of the programs while others also shared tips and tricks for Grasshopper. 
 
-in complete sentences or paragraphs, and perhaps images or videos.
-speculation on future direction for the tools [so much is changing very quickly right now, where do you think this is going? Why do you think this?]
-speculation on future direction for the work
-bonus: thoughtful descriptions of something interesting and relevant you heard about in the news or industry publications. include text, an image, a link, and a reference that you can follow up on later and share with your peers.
-
+**Speculations**
 I would say that Rhino and Grasshopper will be affected by AI and upgrades in a very positive way. AI technology is advancing and it is very likely that programs like Rhino and Grasshopper will incorporate AI-driven tools that support optimizatio and automated workflows, letting designers/engineers to create complex and innovative solutions in a very efficient manner. Another thing that would be great to be incorporated int he near future would be cloud collaboration. Cloud-based platforms enable real-time collaboration anmong people and introducing it to these porgrams will facilitate teamwork across remote groups that need to work on projects simultaneously. This has pros and cons, since it can enhance productivity, creativity, and offer real-time feedback; yet it can also cause disputes within the same group. Still, it would be a very good addition to the programs. 
 
 ---
@@ -86,6 +87,7 @@ I would say that Rhino and Grasshopper will be affected by AI and upgrades in a 
 # Week 2: Report 1 #
 ## Week of 09/12/2024
 
+**Reflection**
 The homework assignment for this week was kind of confusing at first, but after a series of Grasshopper tutorials online and playing around with Grasshopper... I was able to understand the basics of the flow of how the program works (a little bit at least). I feel like it was helpful to mess around with the example files and see what changed in the model once altering the different parameters and baking. I have used Rhino before, so baking was not a term I was familiar with, but it makes sense when you model in Grasshopper that the object or whatever is being created is instantly tranfered into the Rhino file from the Grasshopper graph. While playing around, the program gave me an error once I edited the phone parameters to the actual dimensions of my phone. The center of gravity was off, the stand was not doing its desired function. Below are some picturs of my progress:
 
 <img width="500" alt="Edits" src="assets/Edits.png">
@@ -111,6 +113,7 @@ Examples:
 <img width="250" height="400" alt="Circle" src="assets/Circle.png">
 <img width="250" height="400" alt="Vector" src="assets/Vector.png">
 
+**Speculations**
 Grasshopper seems very intimidating, but I do think this is a tool that can be used in different field in the future. It might be hard for deisgners ot go into Grasshopper after wprking with other programs before, but if someone that is very organized and visualizes a design or solution in a "graph" it will be a very helpful tool for them. Computational design tools are definetly growing and will help deisgners, engineers, etc. in the iteration and manufacturing processes of solutions.  
 
 ---
@@ -118,6 +121,7 @@ Grasshopper seems very intimidating, but I do think this is a tool that can be u
 # Week 1: Report 1 #
 ## Week of 09/05/2024
 
+**Reflection**
 This week it was a mix of going back to basics and learning things. After a year or so of not being in a studio, using CAD, or physically prototypiong, it feels good to be back. After refreshing my knowledge on Rhino, laser cutting, and 3D printing, I decided to test out the laser cutter for this first week. 
 
 I went the simple route creating coasters for my new apartment and they turned out pretty good! I worked in Rhino and then moved onto Illustartor, where I faced some issues with having a newer version of the program. With some guidance from Cody Glen, I was able to succesfully cut my coasters. See pictures of my design below!
@@ -131,6 +135,7 @@ After cutting the coasters I felt happy to be back in a workshop, yet felt the n
 <img width="500" alt="Stain" src="assets/Stain.HEIC">
 <img width="500" alt="Stained" src="assets/Stained.HEIC">
 
+**Speculations**
 Moving forward, I see myself working on very interesting projects and getting familiar with both old and new machines/tools. All the tools we are being offered and pushed to use seem to be very useful and purposeful for our future as designers. 
 
 Additionally, I am very interested in the healthcare industry. Medical tech, wearables, everything related to it... I recently read on the news about this doctor in China who performed surgery on a patient from kilometers away. I really finds this fascinating, find the link below:
