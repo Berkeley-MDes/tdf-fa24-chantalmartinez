@@ -44,7 +44,7 @@ _**Tutorial #3: Button Send on Change**_
 
 This was very easy to build and very nice to see how my device was connected to the particle website. 
 
-<img width="500" alt="ButtonSend" src="assets/ButtonSend.jpg">
+<img width="500" alt="ButtonSend" src="assets/ButtonSend.png">
 
 **Speculations**
 
