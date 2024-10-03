@@ -20,8 +20,8 @@ Welcome to my GitHub repository!
 **Reflection**
 This week I had very limited time to work with the Photon as I had a family emergency and just got back to school. I did follow the tutorials, which personally are very hard to fully understand just because I am not familiar with coding, nor microcontrollers in general. I was able to follow examples in last week's class and was successful; the process of that  in class looked like this: 
 
-<img width="500" alt="Example" src="assets/Example.jpg">
-<img width="500" alt="Example1" src="assets/Example1.jpg">
+<img width="500" alt="Example" src="assets/Example.png">
+<img width="500" alt="Example1" src="assets/Example1.png">
 
 This are the tutorials I did:
 
