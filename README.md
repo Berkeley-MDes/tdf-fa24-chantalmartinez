@@ -10,6 +10,18 @@ Welcome to my GitHub repository!
 
 [week 4](README.md#week4-example-report-4)
 
+[week 5](README.md#week5-example-report-5)
+
+---
+
+# Week 5: Report 1 #
+## Week of 10/03/2024
+
+Reflection
+Speculations
+Images & Video
+Sketches, Drawings, & Diagrams
+
 ---
 
 # Week 4: Report 1 #
