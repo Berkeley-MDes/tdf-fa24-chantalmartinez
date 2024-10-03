@@ -50,6 +50,14 @@ This was very easy to build and very nice to see how my device was connected to 
 
 I am interested in utilizing different sensors like ultrasonic and motion, and seeing how I can integrate the data into a future interactive project. I am also curious to explore the publish and subscribe functions, and how I can connect two photons and communicate data. I speculate that my future projects will include some interactivity and I am excited to explore how I can utilize the capabilities of two microcontrollers to augment and showcase data. 
 
+This is an example of what I am particularly interested in: wearables, specifically in the health and wellness field! Trying to understand how these work would be amazing, even looking into flexible ones. 
+
+<img width="500" alt="Sensors" src="assets/Sensors.png">
+
+Here is a great article that really caught my eye. Nick is a friend of mine who just graduated from Santa Clara University and his work around "Fluid Movement" is crazy. 
+
+_https://www.scu.edu/news-and-events/feature-stories/2024/stories/fluid-movement.html_
+
 ---
 
 # Week 4: Report 1 #
