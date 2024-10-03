@@ -26,12 +26,15 @@ This week I had very limited time to work with the Photon as I had a family emer
 This are the tutorials I did:
 
 _**Tutorial #1: Button -> LED Pulse Rate**_
-After building the circuit, I found it 
+
+After building the circuit, I found it very insteresting on how the  the location of the cables did affect output of the code. I was able to place them all correctly and success! Afterwards, I went ahead and modified the code: changed the increment in which the LED Pulse flashes. 
 
 <img width="500" alt="LEDPulse" src="assets/LEDPulse.HEIC">
 <img width="500" alt="LEDPulse" src="assets/Pulse.HEIC">
 
 _**Tutorial #2: FSR -> LED Color**_
+
+In this next example I encountered a bit of an issue since I had not placed the cables correctly on the top left  part of the circuit. With guidance from a classmate, I was then able to correct it and moved the cables where they were supposed to go. I also found out that there needed to be a certain amount of pressure on the sensor to be able to change the LED color, because at the begiining I was not seeing any type of change other than the LED just lighting up. The colors I saw were Green and Red. 
 
 <img width="500" alt="Color" src="assets/Color.HEIC">
 <img width="500" alt="Green" src="assets/Green.HEIC">
@@ -39,9 +42,13 @@ _**Tutorial #2: FSR -> LED Color**_
 
 _**Tutorial #3: Button Send on Change**_
 
+This was very easy to build and very nice to see how my device was connected to the particle website. 
+
 <img width="500" alt="ButtonSend" src="assets/ButtonSend.jpg">
 
 **Speculations**
+
+I am interested in utilizing different sensors like ultrasonic and motion, and seeing how I can integrate the data into a future interactive project. I am also curious to explore the publish and subscribe functions, and how I can connect two photons and communicate data. I speculate that my future projects will include some interactivity and I am excited to explore how I can utilize the capabilities of two microcontrollers to augment and showcase data. 
 
 ---
 
