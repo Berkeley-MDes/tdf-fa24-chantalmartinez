@@ -18,6 +18,7 @@ Welcome to my GitHub repository!
 ## Week of 10/03/2024
 
 **Reflection**
+
 This week I had very limited time to work with the Photon as I had a family emergency and just got back to school. I did follow the tutorials, which personally are very hard to fully understand just because I am not familiar with coding, nor microcontrollers in general. I was able to follow examples in last week's class and was successful; the process of that  in class looked like this: 
 
 <img width="500" alt="Example" src="assets/Example.png">
