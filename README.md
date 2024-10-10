@@ -21,6 +21,18 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+Hello! This past week I was abel to complete the homework and follow along the introduction to our second project. 
+
+First, I went on and soldered the stemma QT interface board. I had never soldered before, but I got help and guidance from a classmate on how to do it correctly. Here are some pictures of it:
+
+<img width="500" alt="Soldering" src="assets/Soldering.HEIC">
+<img width="500" alt="Solder" src="assets/Solder.HEIC">
+<img width="500" alt="Soldered" src="assets/Soldered.HEIC">
+
+Having that done, I went and on and 
+
+<img width="500" alt="Stema" src="assets/Stema.HEIC">
+
 **Speculations**
 
 
