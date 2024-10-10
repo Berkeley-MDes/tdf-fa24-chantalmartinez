@@ -29,6 +29,8 @@ First, I went on and soldered the stemma QT interface board. I had never soldere
 <img width="500" alt="Solder" src="assets/Solder.HEIC">
 <img width="500" alt="Soldered" src="assets/Soldered.HEIC">
 
+<img width="500" alt="DiagramAccel" src="assets/DiagramAccel.jpg">
+
 Having that done, I went and on and 
 
 <img width="500" alt="Stemma" src="assets/Stemma.HEIC">
