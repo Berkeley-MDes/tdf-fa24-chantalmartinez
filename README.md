@@ -32,6 +32,7 @@ First, I went on and soldered the stemma QT interface board. I had never soldere
 Having that done, I went and on and 
 
 <img width="500" alt="Stemma" src="assets/Stemma.HEIC">
+<img width="500" alt="OLED" src="assets/OLED.HEIC">
 
 **Speculations**
 
