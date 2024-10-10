@@ -21,26 +21,28 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-Hello! This week, I soldered for the first time and worked with Visual Studio Code to play around with my photon2 device. I experimented with the demo firmware and I began exploring how to map sensor values to other processes in the firmware. I experimented with determining appropriate output ranges, particularly for controlling LED brightness based on sensor inputs. I am confident that my second project will have avarious range of sensors, so I am attempting to fet to know as many as I can and asking around what their applications are.
+Hello! This week, I soldered for the first time and worked with Visual Studio Code to play around with my photon2 device. I experimented with the demo firmware and I began exploring how to map sensor values to other processes in the firmware. I experimented with determining appropriate output ranges, particularly for controlling LED brightness based on sensor inputs. I am confident that my second project will have avarious range of sensors, so I am attempting to fet to know as many as I can and asking around what their applications are. Overall, I’m excited about my progress and starting to feel less scared to use the device, so I am eager to keep exploring the different aplication of this technology. 
 
-how to map sensor values to control things like LED brightness using the map() function. I printed sensor data to the serial monitor, which helped me identify some noisy readings that I could fix with the constrain() function. I also started thinking about how to share sensor data with classmates using Particle.publish() and Particle.subscribe(). Overall, I’m excited about my progress and eager to keep exploring!
-
-First, I went on and soldered the stemma QT interface board. I had never soldered before, but I got help and guidance from a classmate on how to do it correctly. Here are some pictures of it:
+Here are some pictures of the the stemma QT interface board that I soldered with a friend. I had never soldered before, but I got help and guidance from Kaylee on how to do it correctly! 
 
 <img width="500" alt="Soldering" src="assets/Soldering.HEIC">
 <img width="500" alt="Solder" src="assets/Solder.HEIC">
 <img width="500" alt="Soldered" src="assets/Soldered.HEIC">
 
-<img width="1000" alt="DiagramAccel" src="assets/DiagramAccel.jpg">
-
-Having that done, I went and on and 
+After doing that, I worked with the two stemma files: ACCEL/GYRO and potentionmeter to OLED. 
 
 <img width="500" alt="Stemma" src="assets/Stemma.HEIC">
-<img width="500" alt="OLED" src="assets/OLED.HEIC">
+<img width="1000" alt="DiagramAccel" src="assets/DiagramAccel.jpg">
+
+We also created our groups for Project 02 and I am very excited. I am working with Kaylee and Lauryn and we have though of created an interactive jellyfish (LED lights and motion) that also has an interactive backdrop made in TouchDesigner. Here is adiagrams of the pieces we will be putting together to make our project come to life!
+
+<img width="1000" alt="PhotonP02" src="assets/PhotonP02.png">
 
 **Speculations**
 
+Moving I sure that these tools have the possibility of being applied into a larger scope than what we are being taught. For example, involving other software platforms like TouchDesigner and MaxMSP to our project sounds so cool. 
 
+<img width="1000" alt="gif" src="assets/gif.gif">
 
 --- 
 
