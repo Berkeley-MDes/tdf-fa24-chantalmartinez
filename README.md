@@ -16,7 +16,7 @@ Welcome to my GitHub repository!
 
 ---
 
-# Week 6: Report 1 #
+# Week 6: Report 6 #
 ## Week of 10/10/2024
 
 **Reflection**
@@ -40,7 +40,7 @@ Having that done, I went and on and
 
 --- 
 
-# Week 5: Report 1 #
+# Week 5: Report 5 #
 ## Week of 10/03/2024
 
 **Reflection**
@@ -87,7 +87,7 @@ _https://www.scu.edu/news-and-events/feature-stories/2024/stories/fluid-movement
 
 ---
 
-# Week 4: Report 1 #
+# Week 4: Report 4 #
 ## Week of 09/26/2024
 
 **Reflection**
@@ -114,7 +114,7 @@ Check out this cool startup I have been following an dbeen interested in for s w
 
 ---
 
-# Week 3: Report 1 #
+# Week 3: Report 3 #
 ## Week of 09/19/2024
 
 **Reflection**
@@ -145,7 +145,7 @@ I would say that Rhino and Grasshopper will be affected by AI and upgrades in a 
 
 ---
 
-# Week 2: Report 1 #
+# Week 2: Report 2 #
 ## Week of 09/12/2024
 
 **Reflection**
