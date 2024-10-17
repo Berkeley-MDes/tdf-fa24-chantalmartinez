@@ -23,14 +23,21 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-
+This week has been a lot of understanding and testing sensors, pieces, and designs. As a group, we have decided not to move forward with MaxcMSP and only focus on TouchDesigner which my teammates are working on. Here are the updated diagrams for the project. Apart from that, we are aiming to include all of the other pices to it so that our Jellyfish is able to vibrate, rotate its tentacles, and light up!
 
 <img width="1000" alt="Chart1" src="assets/Chart1.png">
 <img width="1000" alt="Chart2" src="assets/Chart2.png">
+
+I measured and also looked at the specs of the different pieces we will be adding to our project to be able to see if these will fit inside the umbrella-shaped part of our Jellyfish (or the head). I have never worked with gears, nor modeled them so it has been hard to understand how these migth work an dwhat attachment will be added to the servo motor. I looked up various sites that have already modeled pieces and found that it was the best route to go with. I downlowaded stls, imported them into Rhino and have been messing around with them to adjust them and actually making them solids since they were only meshes. Still in the process of making it all fit together, modifying pieces. Here are pictures of the process. 
+
 <img width="1000" alt="Dimensions" src="assets/Dimensions.png">
 <img width="1000" alt="Jellyfish" src="assets/Jellyfish.png">
 
+Still need to decided if we will go with regular PLA or resin. The lights might look best with resin, but the PLA might be a better choice if we make the shell thinner. If we use resin, makybe our components might be distacting to anyone interacting with the jellyfish, or it might be cool? Not sure. It is a TBD. 
+
 **Speculations**
+
+
 
 ---
 
