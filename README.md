@@ -23,6 +23,13 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+
+
+<img width="1000" alt="Chart1" src="assets/Chart1.png">
+<img width="1000" alt="Chart2" src="assets/Chart2.png">
+<img width="1000" alt="Dimensions" src="assets/Dimensions.png">
+<img width="1000" alt="Jellyfish" src="assets/Jellyfish.png">
+
 **Speculations**
 
 ---
