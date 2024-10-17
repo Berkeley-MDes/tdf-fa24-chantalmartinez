@@ -41,8 +41,6 @@ In the future (near future) I feel that these tools could perfectly be used in e
 
 As far as for our project, I speculate that if we had more time and expertise, we could use AI to adapt the jellyfish's responses based on user interactions. Integrating it with the Photon2 backdrop could create a cohesive system where both elements respond to each other, enhancing the overall experience. I am not a fan of AI, but it would definitely be a great addition to making this project above and beyond. 
 
-
-
 ---
 
 # Week 6: Report 6 #
