@@ -37,6 +37,10 @@ Still need to decided if we will go with regular PLA or resin. The lights might 
 
 **Speculations**
 
+In the future (near future) I feel that these tools could perfectly be used in experimential and immersive education. Having interactive simulations in classrooms for learning purposes, will allow students to engage with complex concepts in a hands-on way. This could transform traditional learning environments into dynamic spaces.
+
+As far as for our project, I speculate that if we had more time and expertise, we could use AI to adapt the jellyfish's responses based on user interactions. Integrating it with the Photon2 backdrop could create a cohesive system where both elements respond to each other, enhancing the overall experience. I am not a fan of AI, but it would definitely be a great addition to making this project above and beyond. 
+
 
 
 ---
