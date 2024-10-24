@@ -25,16 +25,21 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-<img width="1000" alt="Jelly" src="assets/Jelly.png">
-<img width="1000" alt="Assembly" src="assets/Assembly.png">
+This was a very work intensive week in which my team and I worked together to make our interactive Jellyfish successfully work. I modeled the Jellyfish, focused on getting the servo motor to work and fit and designed pieces that could be easily modified if any changes needed to be made. Indeed we had to make various alterations as we made progress due to some changes of sensors. Thankfully, eveyrthing worked out and even by changing out the FSR for and APDS9960 sensor which Kaylee sucessfully connected to P5.js to display an interactive background that  enhanced the sensory experience of our Jellyfish. Here are some pictures of the 3D model and a final group picture of the assembled and working prototype! 
+
+<img width="500" alt="Jelly" src="assets/Jelly.png">
+<img width="500" alt="Assembly" src="assets/Assembly.png">
 <img width="1000" alt="Render1" src="assets/Render1.png">
 <img width="1000" alt="Render2" src="assets/Render2.png">
 <img width="1000" alt="Group" src="assets/Group.HEIC">
 
+Although I was really doubtful abou this project due to my lack of knowledge on microcontrollers, coding, and all; in the end it was a success and I had a good time working on it.
 
 **Speculations**
 
-<img width="1000" alt="Spec" src="assets/Spec.png">
+This project led me to speculate that in the future, Digital Ecosystems will transform human experiences by creating more interactive and adaptive environments, reshaping how we engage with the world. Engineering will focus on designing intuitive, adaptable products that integrate evolving systems. AI will make these ecosystems smarter, predicting and responding to user behavior in real-time. Ultimately, projects like Jellyfish will seamlessly blend digital and physical interactions, potentially advancing into educational tools which would be a very interesting and engaging development. 
+
+<img width="500" alt="School" src="assets/School.jpeg">
 
 ---
 
