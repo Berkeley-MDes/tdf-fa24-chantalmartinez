@@ -33,7 +33,7 @@ This was a very work intensive week in which my team and I worked together to ma
 <img width="1000" alt="Render2" src="assets/Render2.png">
 <img width="1000" alt="Group" src="assets/Group.HEIC">
 
-Although I was really doubtful abou this project due to my lack of knowledge on microcontrollers, coding, and all; in the end it was a success and I had a good time working on it.
+Although I was really doubtful about this project due to my lack of knowledge on microcontrollers, coding, and all; in the end it was a success and I had a good time working on it.
 
 **Speculations**
 
