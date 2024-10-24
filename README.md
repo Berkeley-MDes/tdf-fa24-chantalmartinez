@@ -14,7 +14,27 @@ Welcome to my GitHub repository!
 
 [week 6](README.md#week6-example-report-6)
 
-[week 7](README.md#week6-example-report-7)
+[week 7](README.md#week7-example-report-7)
+
+[week 8](README.md#week8-example-report-8)
+
+---
+
+# Week 8: Report 8 #
+## Week of 10/24/2024
+
+**Reflection**
+
+<img width="1000" alt="Jelly" src="assets/Jelly.png">
+<img width="1000" alt="Assembly" src="assets/Assembly.png">
+<img width="1000" alt="Render1" src="assets/Render1.png">
+<img width="1000" alt="Render2" src="assets/Render2.png">
+<img width="1000" alt="Group" src="assets/Group.HEIC">
+
+
+**Speculations**
+
+<img width="1000" alt="Spec" src="assets/Spec.png">
 
 ---
 
