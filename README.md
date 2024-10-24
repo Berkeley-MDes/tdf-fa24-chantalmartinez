@@ -39,7 +39,7 @@ Although I was really doubtful about this project due to my lack of knowledge on
 
 This project led me to speculate that in the future, Digital Ecosystems will transform human experiences by creating more interactive and adaptive environments, reshaping how we engage with the world. Engineering will focus on designing intuitive, adaptable products that integrate evolving systems. AI will make these ecosystems smarter, predicting and responding to user behavior in real-time. Ultimately, projects like Jellyfish will seamlessly blend digital and physical interactions, potentially advancing into educational tools which would be a very interesting and engaging development. 
 
-<img width="500" alt="School" src="assets/School.jpeg">
+<img width="500" alt="School" src="assets/School.png">
 
 ---
 
