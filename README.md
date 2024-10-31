@@ -31,7 +31,7 @@ Welcome to my GitHub repository!
 
 _Dem, Oh GPT Experiment 01_
 
-<img width="333" alt="Experimen 1" src="assets/Experiment 1.png"<img width="333" alt="Experimen 1.1" src="assets/Experiment 1.1.png"><img width="333" alt="Experimen 1.2" src="assets/Experiment 1.2.png">
+<img width="333" alt="Experiment 1" src="assets/Experiment 1.png"<img width="333" alt="Experiment 1.1" src="assets/Experiment 1.1.png"><img width="333" alt="Experiment 1.2" src="assets/Experiment 1.2.png">
 
 _Dem, Oh GPT + Instruct Experiment 01_
 
@@ -47,7 +47,7 @@ _Dem, Oh GPT + Instruct + RAG+ Variable Experiment 01_
 
 Postman & API Responses
 
-<img width="500" alt="Postman" src="assets/Postman.png"><img width="500" alt="API" src="assets/Postman.png">
+<img width="500" alt="Postman" src="assets/Postman.png"><img width="500" alt="API" src="assets/API.png">
 
 **Speculations**
 
