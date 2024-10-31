@@ -47,7 +47,8 @@ _Dem, Oh GPT + Instruct + RAG+ Variable Experiment 01_
 
 Postman & API Responses
 
-<img width="500" alt="Postman" src="assets/Postman.png"><img width="500" alt="API" src="assets/API.png">
+<img width="1000" alt="API" src="assets/API.png">
+<img width="500" alt="Postman" src="assets/Postman.png">
 
 **Speculations**
 
