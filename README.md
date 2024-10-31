@@ -18,6 +18,17 @@ Welcome to my GitHub repository!
 
 [week 8](README.md#week8-example-report-8)
 
+[week 9](README.md#week9-example-report-9)
+
+---
+
+# Week 9: Report 9 #
+## Week of 10/31/2024
+
+**Reflection**
+
+**Speculations**
+
 ---
 
 # Week 8: Report 8 #
