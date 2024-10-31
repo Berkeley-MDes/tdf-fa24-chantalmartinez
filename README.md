@@ -27,6 +27,18 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+Experiment 01:
+https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
+
+Experiment 02:
+
+
+Experiment 03:
+
+
+Experiment 04:
+
+
 **Speculations**
 
 ---
