@@ -27,17 +27,29 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-Experiment 01:
-https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
+<img width="1000" alt="Experiments" src="assets/Experiments.png">
 
-Experiment 02:
+_Dem, Oh GPT Experiment 01_
+<img width="333" alt="Experimen 1" src="assets/Experiment 1.png">
+<img width="333" alt="Experimen 1.1" src="assets/Experiment 1.1.png">
+<img width="333" alt="Experimen 1.2" src="assets/Experiment 1.2.png">
 
+_Dem, Oh GPT + Instruct Experiment 01_
 
-Experiment 03:
-https://zerowidth.ai/c/demo/cJ95mLN5GTYEtA5aB1RY/draft
+<img width="500" alt="Experiment 2" src="assets/Experiment 2.png">
+<img width="500" alt="Experiment 2.1" src="assets/Experiment 2.1.png">
 
-Experiment 04:
+_Dem, Oh GPT + Instruct + RAG Experiment 01_
 
+<img width="500" alt="Experiment 3" src="assets/Experiment 3.png">
+
+_Dem, Oh GPT + Instruct + RAG+ Variable Experiment 01_
+<img width="500" alt="Experiment 4" src="assets/Experiment 4.png">
+<img width="500" alt="Experiments" src="assets/Experiment 4.1.png">
+
+Postman & API Responses
+<img width="500" alt="Postman" src="assets/Postman.png">
+<img width="500" alt="API" src="assets/Postman.png">
 
 **Speculations**
 
