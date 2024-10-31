@@ -31,7 +31,7 @@ Welcome to my GitHub repository!
 
 _Dem, Oh GPT Experiment 01_
 
-<img width="333" alt="Experiment 1" src="assets/Experiment 1.png"<img width="333" alt="Experiment 1.1" src="assets/Experiment 1.1.png"><img width="333" alt="Experiment 1.2" src="assets/Experiment 1.2.png">
+<img width="333" alt="Experiment 1" src="assets/Experiment 1.png"><img width="333" alt="Experiment 1.1" src="assets/Experiment 1.1.png"><img width="333" alt="Experiment 1.2" src="assets/Experiment 1.2.png">
 
 _Dem, Oh GPT + Instruct Experiment 01_
 
