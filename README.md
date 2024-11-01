@@ -33,9 +33,13 @@ Hello, this week we successfully finished project 2 and went on to the third pro
 
 _Dem, Oh GPT Experiment 01_
 
+You can see how the temperature affected the response created by ChatGPT.
+
 <img width="333" alt="Experiment 1" src="assets/Experiment 1.png"><img width="333" alt="Experiment 1.1" src="assets/Experiment 1.1.png"><img width="333" alt="Experiment 1.2" src="assets/Experiment 1.2.png">
 
 _Dem, Oh GPT + Instruct Experiment 01_
+
+You can see how the temperature affected the response created by ChatGPT.
 
 <img width="500" alt="Experiment 2" src="assets/Experiment 2.png"><img width="500" alt="Experiment 2.1" src="assets/Experiment 2.1.png">
 
