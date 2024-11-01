@@ -27,7 +27,7 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-Hello, this week we successfully finished project 2 and went on to the third project of the semester. Here are my experiments in ZeroWidth:
+Hello, this week we successfully finished project 2 and went on to the third project of the semester. Here are my experiments in ZeroWidth in which I uploaded my resume as knowledge to program the responses to be based on that. 
 
 <img width="1000" alt="Experiments" src="assets/Experiments.png">
 
