@@ -27,7 +27,7 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
-Hello, here are my experiments in ZeroWidth!
+Hello, this week we successfully finished project 2 and went on to the third project of the semester. Here are my experiments in ZeroWidth:
 
 <img width="1000" alt="Experiments" src="assets/Experiments.png">
 
@@ -51,10 +51,14 @@ I was getting an error in this experiment, but with Luryn's help we figured out 
 
 Postman & API Responses
 
-<img width="1000" alt="API" src="assets/API.png">
+After working on the experiments, I followed TJ's instrusctions to go into POstman and I was able to see the API reponses created while I used Postman to do so. 
+
 <img width="500" alt="Postman" src="assets/Postman.png">
+<img width="1000" alt="API" src="assets/API.png">
 
 **Speculations**
+
+I felt 
 
 ---
 
