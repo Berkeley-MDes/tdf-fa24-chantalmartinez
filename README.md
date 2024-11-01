@@ -61,7 +61,7 @@ After working on the experiments, I followed TJ's instrusctions to go into POstm
 
 **Speculations**
 
-I felt 
+This week, I’m diving into how LLMs might integrate with the Netflix API to give better, more personalized recommendations. The idea is to use context like Location, Age, Genre, and whether someone’s more into movies or shows, so the LLM can make suggestions that actually feel relevant to the person. It’s about making the experience smarter and more connected to real-world preferences and moments. Seeing if LLMs can pull in real-time data like this could be a big step in making recommendations that feel a lot more intuitive.
 
 ---
 
