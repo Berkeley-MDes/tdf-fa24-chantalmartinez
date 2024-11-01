@@ -53,8 +53,7 @@ Postman & API Responses
 
 After working on the experiments, I followed TJ's instrusctions to go into POstman and I was able to see the API reponses created while I used Postman to do so. 
 
-<img width="500" alt="Postman" src="assets/Postman.png">
-<img width="1000" alt="API" src="assets/API.png">
+<img width="500" alt="Postman" src="assets/Postman.png"><img width="500" alt="API" src="assets/API.png">
 
 **Speculations**
 
