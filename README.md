@@ -55,7 +55,7 @@ I was getting an error in this experiment, but with Lauryn's help we figured out
 
 Postman & API Responses
 
-After working on the experiments, I followed TJ's instrusctions to go into POstman and I was able to see the API reponses created while I used Postman to do so. 
+After working on the experiments, I followed TJ's instrusctions to go into Postman and I was able to see the API reponses created while I used Postman to do so. 
 
 <img width="500" alt="Postman" src="assets/Postman.png"><img width="500" alt="API" src="assets/API.png">
 
