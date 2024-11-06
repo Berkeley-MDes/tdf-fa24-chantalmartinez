@@ -49,7 +49,7 @@ _Dem, Oh GPT + Instruct + RAG Experiment 01_
 
 _Dem, Oh GPT + Instruct + RAG+ Variable Experiment 01_
 
-I was getting an error in this experiment, but with Luryn's help we figured out that my variables in the instructions were in lowercase and not in caps. That fixed it and I was able to see the correct vairables: Chantal Martinez, Skills (Design), and Year (2020). 
+I was getting an error in this experiment, but with Lauryn's help we figured out that my variables in the instructions were in lowercase and not in caps. That fixed it and I was able to see the correct vairables: Chantal Martinez, Skills (Design), and Year (2020). 
 
 <img width="500" alt="Experiment 4" src="assets/Experiment 4.png"><img width="500" alt="Experiments" src="assets/Experiment 4.1.png">
 
