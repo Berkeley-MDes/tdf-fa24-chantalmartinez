@@ -20,6 +20,17 @@ Welcome to my GitHub repository!
 
 [week 9](README.md#week9-example-report-9)
 
+[week 10](README.md#week10-example-report-10)
+
+---
+
+# Week 10: Report 10 #
+## Week of 11/07/2024
+
+**Reflection**
+
+**Speculations**
+
 ---
 
 # Week 9: Report 9 #
