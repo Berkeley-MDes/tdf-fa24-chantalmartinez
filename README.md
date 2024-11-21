@@ -54,19 +54,21 @@ This updated diagram should make it easier for someone unfamiliar with my projec
 
 Freha also made me feel realy good about my overall project and it was nice that seh noticed my clean design on the video and pointed it out during our video presentation session😊🥳. Here are the links to my video and experiments: 
 
-Video - https://youtu.be/n06AOeWpO30
+_Video_ - https://youtu.be/n06AOeWpO30
 
-Exp. 1 - https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
+_Exp. 1_ - https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
 
-Exp. 2 - https://zerowidth.ai/c/demo/18tsR0raNkfjQ6u6DjfU/draft
+_Exp. 2_ - https://zerowidth.ai/c/demo/18tsR0raNkfjQ6u6DjfU/draft
 
-Exp. 3 - https://zerowidth.ai/c/demo/cJ95mLN5GTYEtA5aB1RY/draft
+_Exp. 3_ - https://zerowidth.ai/c/demo/cJ95mLN5GTYEtA5aB1RY/draft
 
-Exp. 4 - https://zerowidth.ai/c/demo/w5NCxhZmNH8jnIM8Wg6M/draft 
+_Exp. 4_ - https://zerowidth.ai/c/demo/w5NCxhZmNH8jnIM8Wg6M/draft 
 
-Final Exp. - https://zerowidth.ai/c/demo/2OmM1Ow1XFzswhRPLDdS/draft
+_Final Exp._ - https://zerowidth.ai/c/demo/2OmM1Ow1XFzswhRPLDdS/draft
 
 **Speculations**
+
+I believe that as AI and LLMs continue to improve, the line between machine and human interactions in processes like interviews may blur. It’s possible that, in the future, interviews could be managed by machines, with AI handling both the questions and evaluating responses. However, while machines could handle technical aspects, I think there will still be a need for human involvement to assess qualities like emotional intelligence, creativity, and cultural fit—areas where human judgment remains vital, especially in creative design careers. As these systems advance, we may see hybrid models where machines streamline parts of the process, but humans still play a crucial role in making final decisions.
 
 ---
 
