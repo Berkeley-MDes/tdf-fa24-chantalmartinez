@@ -63,8 +63,10 @@ Here are some pictures of my process, diagrams, and even some responses from my 
 
 <img width="1000" alt="Dia1" src="assets/Dia1.png">
 <img width="1000" alt="Dia2" src="assets/Dia2.png">
-<img width="300" alt="17" src="assets/17.png"><img width="300" alt="18" src="assets/18.png">
-<img width="300" alt="19" src="assets/19.png"><img width="300" alt="10" src="assets/20.png">
+<img width="500" alt="17" src="assets/17.png">
+<img width="500" alt="18" src="assets/18.png">
+<img width="500" alt="19" src="assets/19.png">
+<img width="500" alt="10" src="assets/20.png">
 
 Fingers crossed that it will help me land my dream job🤞!
 
