@@ -55,10 +55,16 @@ This updated diagram should make it easier for someone unfamiliar with my projec
 Freha also made me feel realy good about my overall project and it was nice that seh noticed my clean design on the video and pointed it out during our video presentation session😊🥳. Here are the links to my video and experiments: 
 
 Video - https://youtu.be/n06AOeWpO30
+
 Exp. 1 - https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
+
 Exp. 2 - https://zerowidth.ai/c/demo/18tsR0raNkfjQ6u6DjfU/draft
+
 Exp. 3 - https://zerowidth.ai/c/demo/cJ95mLN5GTYEtA5aB1RY/draft
-Exp. 4 - https://zerowidth.ai/c/demo/w5NCxhZmNH8jnIM8Wg6M/draft Final Exp. - https://zerowidth.ai/c/demo/2OmM1Ow1XFzswhRPLDdS/draft
+
+Exp. 4 - https://zerowidth.ai/c/demo/w5NCxhZmNH8jnIM8Wg6M/draft 
+
+Final Exp. - https://zerowidth.ai/c/demo/2OmM1Ow1XFzswhRPLDdS/draft
 
 **Speculations**
 
