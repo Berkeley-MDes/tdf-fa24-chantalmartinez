@@ -51,7 +51,30 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+After successfully going through the four initial experiments, I brainstormed what I wanted to do for Project 3. Initially, I wanted to work with a Netflix API that would recommend movies, but I wasn’t very motivated about it. I decided to go with something more useful and productive for me outside of class—that’s how I came up with Interview Buddy!
+
+I was able to create a PDF of my online portfolio, gather my resume, and establish some general guidelines for design interviews. Then, I created my Interview Buddy. At first, it wasn’t responding in the first person or representing my work as I wanted, but after adding the first-person command, it started answering interview questions like magic!
+
+This experiment was both entertaining and a significant learning curve. Before this project, I didn’t fully understand what an LLM or API was. Getting hands-on with the project allowed me to create a tool that will (hopefully) help me prepare for the challenging and frustrating process of securing an internship.
+
+This process is particularly hard for me because my first language is Spanish. Sometimes it’s difficult to think of answers, translate them, and still not respond the way I had imagined. This agent can definitely help me with that, and I’m really excited to keep using it!
+
+Here are some pictures of my process, diagrams, and even some responses from my agent!
+
+<img width="1000" alt="Dia1" src="assets/Dia1.png">
+<img width="1000" alt="Dia2" src="assets/Dia2.png">
+<img width="500" alt="17" src="assets/17.png"><img width="500" alt="18" src="assets/18.png">
+<img width="500" alt="19" src="assets/19.png"><img width="500" alt="10" src="assets/20.png">
+
+Fingers crossed that it will help me land my dream job🤞!
+
+Moving forward I would tailor the agent to have variables or filters for different companies, roles, etc. actually helping it have more detailed responses. 
+
 **Speculations**
+
+I believe that tools like Interview Buddy have the potential to bridge personal and professional gaps, especially for individuals navigating challenges such as language barriers like I do sometimes. By leveraging AI, these tools can help users to prepare more effectively, boosting confidence in high-pressure scenarios like interviews.
+
+Additionally, I speculate that as LLMs become more advanced, they will play a pivotal role in personal development, making career preparation more accessible and tailored. This aligns with my belief that integrating technology into everyday practices can significantly enhance learning experiences and outcomes.
 
 ---
 
