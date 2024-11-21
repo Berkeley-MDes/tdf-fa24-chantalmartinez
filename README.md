@@ -33,7 +33,19 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+This past week, I’ve been reflecting on Project 4. Even though my teammates and I had already brainstormed ideas related to learning, disabilities, and other topics, I focused on developing my personal proposal.
+
+<img width="1000" alt="P04 Proposal" src="assets/P04 Proposal.pdf">
+
+Although I am extremely excited about this project and the potential to include it in my portfolio, I’m a little concerned about the time constraints and how much I’ll be able to personally contribute. I’m eager to further develop my skills, but I won’t be here next week, and the project is due the Monday after Thanksgiving, when I’ll be unavailable as well. I plan to work as much as I can in the time I have, and I’m confident it will all come together, but I can’t help feeling a bit anxious about the tight timeline.
+
 **Speculations**
+
+I believe that as educational tools continue to evolve, projects like my math blocks and music toy could become a powerful way to engage children in learning through hands-on interaction. By combining tactile learning with sensory feedback (like sound and light), these kinds of toys could help children not only understand mathematical concepts but also improve their rhythm and music theory knowledge. As the project develops, I speculate that the integration of more advanced sensors and technologies could allow for adaptive learning experiences, where the toy adjusts difficulty levels based on a child’s progress.
+
+Looking ahead, I also think there’s potential to expand the toy’s application to support other learning areas, such as language or creative problem-solving, making it a versatile tool in early education. I was even thinking about teaching/learning ASL, communication, etc. 
+
+Here is a cool application of what it could be expanded into as well: https://www.tiktok.com/@whataboutbunny/video/7431645317033987359?is_from_webapp=1&sender_device=pc&web_id=7439885197249824299
 
 ---
 
