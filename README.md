@@ -42,6 +42,24 @@ Welcome to my GitHub repository!
 
 **Reflection**
 
+This week, I submitted my Project 3 report! It was a big learning curve for me to go from not knowing what an LLM was, to using ZeroWidth, and then creating my own bot that helps me with interviewing. It was a really interesting project, and even though it was relatively short, I was able to learn the basic process behind how agents like these work (or at least, that’s how I like to think of it).
+
+Looking back at the work and process I followed, I was honestly creeped out when the agent mentioned a project I worked on during my senior year of undergrad, one that isn’t in my portfolio or resume. It was a project I hadn't shared anywhere, which made it feel all the more eerie. This experience really made me realize just how much these agents can learn and know beyond the explicit information we provide them. It’s unsettling how the model can pull details that seem to go beyond its direct input, which makes me wonder just how much these systems are capable of—and it’s a bit creepy how it all works.
+
+Here is an updated version of one of my process diagrams, now more specific and explanatory to help clarify what’s going on in the system. I’ve made this version more detailed to better illustrate how different components interact and the flow of data throughout the process. For example, I’ve included clearer steps showing how the Interview Buddy agent takes input from my portfolio, resume, and guidelines, processes that information using ZeroWidth and an LLM, and then generates responses in the first person to simulate a mock interview.
+
+This updated diagram should make it easier for someone unfamiliar with my project or with how LLMs and ZeroWidth work—to follow along. The goal is to show how the system processes and transforms the information to provide real-time, useful feedback in the context of a design interview. By breaking it down this way, I hope to make the technical aspects more accessible and understandable, even for those who haven’t interacted with similar technology before.
+
+<img width="1000" alt="Dia2" src="assets/Dia2.png">
+
+Freha also made me feel realy good about my overall project and it was nice that seh noticed my clean design on the video and pointed it out during our video presentation session😊🥳. Here are the links to my video and experiments: 
+
+Video - https://youtu.be/n06AOeWpO30
+Exp. 1 - https://zerowidth.ai/c/demo/GcWnh2lKeAuTAIiIN54r/draft
+Exp. 2 - https://zerowidth.ai/c/demo/18tsR0raNkfjQ6u6DjfU/draft
+Exp. 3 - https://zerowidth.ai/c/demo/cJ95mLN5GTYEtA5aB1RY/draft
+Exp. 4 - https://zerowidth.ai/c/demo/w5NCxhZmNH8jnIM8Wg6M/draft Final Exp. - https://zerowidth.ai/c/demo/2OmM1Ow1XFzswhRPLDdS/draft
+
 **Speculations**
 
 ---
@@ -62,7 +80,7 @@ This process is particularly hard for me because my first language is Spanish. S
 Here are some pictures of my process, diagrams, and even some responses from my agent!
 
 <img width="1000" alt="Dia1" src="assets/Dia1.png">
-<img width="1000" alt="Dia2" src="assets/Dia2.png">
+<img width="1000" alt="Dia3" src="assets/Dia3.png">
 <img width="1000" alt="17" src="assets/17.png">
 <img width="1000" alt="18" src="assets/18.png">
 <img width="1000" alt="19" src="assets/19.png">
