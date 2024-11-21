@@ -24,6 +24,17 @@ Welcome to my GitHub repository!
 
 [week 11](README.md#week11-example-report-11)
 
+[week 12](README.md#week12-example-report-12)
+
+---
+
+# Week 12: Report 12 #
+## Week of 11/21/2024
+
+**Reflection**
+
+**Speculations**
+
 ---
 
 # Week 11: Report 11 #
