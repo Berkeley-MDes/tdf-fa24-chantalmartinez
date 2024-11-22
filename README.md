@@ -35,7 +35,7 @@ Welcome to my GitHub repository!
 
 This past week, I’ve been reflecting on Project 4. Even though my teammates and I had already brainstormed ideas related to learning, disabilities, and other topics, I focused on developing my personal proposal.
 
-<pdf width="1000" alt="P04 Proposal" src="assets/P04 Proposal.pdf">
+<object data="P04 Proposal.pdf" width="3300" height="5100" type='application/pdf'/>
 
 Although I am extremely excited about this project and the potential to include it in my portfolio, I’m a little concerned about the time constraints and how much I’ll be able to personally contribute. I’m eager to further develop my skills, but I won’t be here next week, and the project is due the Monday after Thanksgiving, when I’ll be unavailable as well. I plan to work as much as I can in the time I have, and I’m confident it will all come together, but I can’t help feeling a bit anxious about the tight timeline.
 
