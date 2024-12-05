@@ -26,6 +26,28 @@ Welcome to my GitHub repository!
 
 [week 12](README.md#week12-example-report-12)
 
+[week 13](README.md#week13-example-report-13)
+
+---
+
+# Week 14: Report 14 #
+## Week of 11/05/2024
+
+**Reflection**
+
+This past week, I took a break from most of my work to enjoy Thanksgiving. However, I did spend some time working on CAD for our final project.
+
+I also decided to adjust my level for Project 4 in our updated proposal, switching to the Triceratops level. This choice allows me to focus more on fabrication, which aligns with my strengths and prior experience, rather than diving deeper into coding. With the time constraints, I believe that concentrating on and expanding what I already know will help me deliver a polished and meaningful final outcome.
+
+Looking ahead, I plan to leverage my fabrication skills to meet the requirements of this level and create a project that my group and I can showcase in our portfolios. I’ve been working on designing the blocks for our math toy then will move to the base. The blocks need to open to allow access to the RFID fob while also maintaining an aesthetic and functional design. I’ve been exploring various ways to model the blocks for 3D printing, balancing practicality and appearance.
+
+<img width="1000" alt="P04 RenderBlock" src="assets/RenderBlock.png">
+<img width="1000" alt="P04 Blocks" src="assets/Blocks.png">
+
+**Speculations**
+
+As hands-on learning evolves, our math blocks and music toy could transform education by combining tactile interaction with sensory feedback to teach math and music theory. Adding adaptive technologies could tailor learning to each child’s progress, ensuring engagement and growth.
+
 ---
 
 # Week 12: Report 12 #
